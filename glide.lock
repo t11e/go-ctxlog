@@ -1,0 +1,14 @@
+hash: 04116edd4a4ec7b74867c5343b856451003901473d30e666694e049f6479382a
+updated: 2016-05-16T14:46:50.414608458-04:00
+imports:
+- name: github.com/op/go-logging
+  version: 970db520ece77730c7e4724c61121037378659d9
+- name: github.com/stretchr/testify
+  version: 6cb3b85ef5a0efef77caef88363ec4d4b5c0976d
+  subpackages:
+  - assert
+- name: golang.org/x/net
+  version: ef00b378c73f107bf44d5c9b69875255ce89b79a
+  subpackages:
+  - context
+devImports: []

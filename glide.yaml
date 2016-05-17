@@ -1,0 +1,9 @@
+package: github.com/t11e/go-ctxlog
+import:
+- package: github.com/stretchr/testify
+  subpackages:
+  - assert
+- package: golang.org/x/net
+  subpackages:
+  - context
+- package: github.com/op/go-logging
