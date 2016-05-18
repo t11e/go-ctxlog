@@ -1,5 +1,7 @@
 # go-ctxlog
 
+[![Build Status](https://semaphoreci.com/api/v1/projects/717c1b05-a11f-47ba-a8f2-dec48dfbb1a2/814664/badge.svg)](https://semaphoreci.com/t11e/go-ctxlog)
+
 Context aware logging library.
 Wraps [github.com/op/go-logging](http://github.com/op/go-logging)
 with some convenience methods.
